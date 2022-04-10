@@ -1,5 +1,5 @@
 import React from 'react'
-import MainContainer from './../Layouts/MainContainer';
+import MainContainer from './../layouts/MainContainer';
 
 const Result = () => {
   return (
